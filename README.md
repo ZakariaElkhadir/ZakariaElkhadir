@@ -20,7 +20,7 @@
 </div>
 
 
-<div align="center">
+<div style="text-align:center">
   <a href="https://www.linkedin.com/in/zakaria-elkhadir-542118279/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -40,8 +40,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&show_icons=true&locale=en&layout=compact" alt="zakariaelkhadir" /></p>
-
-
-
-
 
