@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Elkhadir</h1>
-<h3 align="center">I'm a software engineering student.</h3>
+<h3 align="center">I'm a <b>Software Engineering</b> Student.</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
