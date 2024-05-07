@@ -32,7 +32,7 @@
   </a>
 </div>
 
-
+<div align="center">
 
 <p><center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaelkhadir&show_icons=true&locale=en" alt="zakariaelkhadir" /></center></p>
 
@@ -41,3 +41,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&show_icons=true&locale=en&layout=compact" alt="zakariaelkhadir" /></p>
 
+</div>
