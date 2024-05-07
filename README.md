@@ -34,7 +34,7 @@
 
 
 
-<p><center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaelkhadir&show_icons=true&locale=en" alt="zakariaelkhadir" /></center></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaelkhadir&show_icons=true&locale=en" alt="zakariaelkhadir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaelkhadir&" alt="zakariaelkhadir" /></p>
 
