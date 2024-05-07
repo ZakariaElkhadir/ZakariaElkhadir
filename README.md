@@ -39,6 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaelkhadir&" alt="zakariaelkhadir" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&show_icons=true&locale=en&layout=compact" alt="zakariaelkhadir" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&show_icons=true&locale=en&layout=compact" alt="zakariaelkhadir" /></p>
 
 </div>
