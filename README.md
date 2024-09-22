@@ -2,6 +2,7 @@
 <h3 align="center">I'm a <b>Software Engineering</b> Student.</h3>
 
 <div align="center">
+<!--skills logos-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
