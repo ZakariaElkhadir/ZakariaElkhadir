@@ -3,6 +3,7 @@
 
 <div align="center">
 <!--skills logos-->
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -18,8 +19,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
+</div> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python,javascript,mysql,nginx,react,next" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zakaria-elkhadir-542118279/" target="_blank">
