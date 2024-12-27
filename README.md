@@ -22,7 +22,7 @@
 </div> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python,javascript,mysql,nginx,react,next" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python,flask,javascript,mysql,nginx,react,next,tailwind" />
   </a>
 </p>
 
