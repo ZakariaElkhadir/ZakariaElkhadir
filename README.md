@@ -5,8 +5,19 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Row 1 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python,flask,javascript,mysql,nginx,react,express,mongodb,next,tailwind" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python" />
+  </a>
+  <br>
+  <!-- Row 2 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,javascript,mysql,nginx,react,express,mongodb" />
+  </a>
+  <br>
+  <!-- Row 3 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,tailwind" />
   </a>
 </p>
 
