@@ -1,30 +1,33 @@
 <h1 align="center">Hi 👋, I'm Zakaria Elkhadir</h1>
-<h3 align="center">I'm a <b>Software Engineering</b> Student.</h3>
+<h3 align="center">A Certified <b>Software Engineer</b> passionate about building scalable and efficient software solutions.</h3>
 
-<div align="center">
-<!--skills logos-->
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div> -->
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,python,flask,javascript,mysql,nginx,react,express,mongodb,next,tailwind" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakariaelkhadir&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaelkhadir&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zakaria-elkhadir-542118279/" target="_blank">
@@ -38,13 +41,38 @@
   </a>
 </div>
 
+---
+
+### 📌 Pinned Repositories
+
 <div align="center">
-
-<p><center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaelkhadir&show_icons=true&locale=en" alt="zakariaelkhadir" /></center></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaelkhadir&" alt="zakariaelkhadir" /></p>
-
-
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaelkhadir&show_icons=true&locale=en&layout=compact" alt="zakariaelkhadir" /></p>
-
+  <a href="https://github.com/zakariaelkhadir/your-repo-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelkhadir&repo=your-repo-1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/zakariaelkhadir/your-repo-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelkhadir&repo=your-repo-2&theme=radical&hide_border=true" />
+  </a>
 </div>
+
+---
+
+### 📈 Contribution Graph
+
+![Zakaria's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zakariaelkhadir&theme=radical&hide_border=true)
+
+---
+
+### 🎯 Professional Goals
+
+- 🔭 I’m currently working on **scalable web applications** using modern technologies.
+- 🌱 I’m deepening my knowledge in **cloud computing and DevOps practices**.
+- 👯 I’m looking to collaborate on **innovative open-source projects**.
+- 💬 Ask me about **Python, Flask, React, or anything related to software development**.
+- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/zakaria-elkhadir-542118279/)
+
+---
+
+<p align="center"> 
+  Visitor count: <br>
+  <img src="https://profile-counter.glitch.me/zakariaelkhadir/count.svg" />
+</p>
