@@ -43,18 +43,7 @@
 
 
 
-### 📌 Pinned Repositories
 
-<div align="center">
-  <a href="https://github.com/zakariaelkhadir/your-repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelkhadir&repo=your-repo-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/zakariaelkhadir/your-repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaelkhadir&repo=your-repo-2&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
 
 ### 📈 Contribution Graph
 
