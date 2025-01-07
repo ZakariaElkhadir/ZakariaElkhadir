@@ -68,7 +68,7 @@
 - 🌱 I’m deepening my knowledge in **cloud computing and DevOps practices**.
 - 👯 I’m looking to collaborate on **innovative open-source projects**.
 - 💬 Ask me about **Python, Flask, React, or anything related to software development**.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/zakaria-elkhadir-542118279/)
+- 📫 How to reach me: [Email](mailto:zelkhadir5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zakaria-elkhadir-542118279/)
 
 ---
 
