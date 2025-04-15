@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria Elkhadir</h1>
-<h3 align="center">A Certified <b>Software Engineer</b> passionate about building scalable and efficient software solutions.</h3>
-
+<h3 align="center">
+  An <strong>aspiring Software Engineer</strong> passionate about building scalable and efficient software solutions.
+</h3>
 
 ### 🛠️ Tech Stack
 
