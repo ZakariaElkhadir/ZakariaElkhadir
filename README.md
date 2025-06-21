@@ -26,11 +26,11 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,python,express,flask,php" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,express,flask,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,next,typescript,graphql,tailwind" />
   </a>
 </p>
 </details>
