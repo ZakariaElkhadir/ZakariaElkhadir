@@ -24,22 +24,34 @@
 
 ## 🧰 Technical Arsenal
 
-### 💻 **Languages & Frameworks**
+### 💻 **Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,php&theme=dark" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,graphql&theme=dark" alt="Frameworks" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap&theme=dark" alt="Frontend" />
 </p>
 
-### 🛠️ **Tools & Technologies**
+### 🎨 **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql&theme=dark" alt="Databases" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,docker&theme=dark" alt="DevOps" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nginx,aws,vercel,netlify&theme=dark" alt="Deployment" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+</p>
+
+### ⚙️ **Backend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql&theme=dark" alt="Backend" />
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Databases" />
+</p>
+
+### 🛠️ **DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,bash,vim&theme=dark" alt="DevOps" />
+</p>
+
+### ☁️ **Cloud & Deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify&theme=dark" alt="Cloud" />
 </p>
 
 ---
