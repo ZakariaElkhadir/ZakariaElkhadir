@@ -44,18 +44,7 @@ More on the [portfolio →](https://www.zakariaelkhadir.com/projects)
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaelkhadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaelkhadir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zakariaelkhadir&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
----
 
 <div align="center">
 
