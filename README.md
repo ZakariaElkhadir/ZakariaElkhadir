@@ -4,7 +4,7 @@
 
 **Frontend-focused Full-Stack Developer** building fast, well-crafted web products with **React**, **Next.js**, and **TypeScript**.
 
-📍 Casablanca, Morocco &nbsp;•&nbsp; 🎓 ALX Africa Software Engineering &nbsp;•&nbsp; 🌐 [zakariaelkhadir.com](https://www.zakariaelkhadir.com)
+📍 Casablanca, Morocco &nbsp;•&nbsp; 🎓 ALX Africa Software Engineering (Holberton curriculum) &nbsp;•&nbsp; 🌐 [zakariaelkhadir.com](https://www.zakariaelkhadir.com)
 
 <p>
   <a href="mailto:zelkhadir5@gmail.com"><img src="https://img.shields.io/badge/Email-zelkhadir5%40gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=white" /></a>
